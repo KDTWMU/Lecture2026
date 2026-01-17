@@ -1,0 +1,15 @@
+gene_name,chromosome,function,literature_count,expression_level
+WRKY1,Chr01,Transcription factor,45,8.2
+MYB2,Chr02,Transcription factor,78,12.5
+LEA3,Chr03,Stress response,23,6.8
+HSP70,Chr04,Heat shock,156,15.3
+CAT1,Chr05,Antioxidant enzyme,89,9.7
+SOD2,Chr06,Antioxidant enzyme,112,11.2
+ABA1,Chr07,Hormone synthesis,67,7.9
+GA20ox,Chr08,Hormone synthesis,34,5.4
+CHS,Chr09,Flavonoid synthesis,98,10.1
+PAL,Chr10,Phenylpropanoid,56,8.8
+PEPC,Chr01,Photosynthesis,134,13.6
+RuBisCO,Chr02,Photosynthesis,289,18.7
+ATP1,Chr03,ATP synthesis,176,14.2
+NADH1,Chr04,Electron transport,201,16.8
